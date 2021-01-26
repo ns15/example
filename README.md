@@ -1,3 +1,3 @@
 # example
-Practice repository for Grad School course
+Practice repository for Graduate School course
 Date:21/01/26
